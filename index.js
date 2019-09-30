@@ -6,7 +6,8 @@ const LINE_MESSAGING_API = "https://api.line.me/v2/bot/message";
 const LINE_UID = "YOUR-LINE-USER-ID";
 const LINE_HEADER = {
   "Content-Type": "application/json",
-  Authorization: "Bearer YOUR-CHANNEL-ACCESS-TOKEN"
+  Authorization: "Bearer wu2923zegJ0e5zVCnddLiJYl7Er6yUSZX+Ta23X47nzWaeuHq7nA/0ReGlnuTS9BEkyt05vPNl4k77rwZNsE7dfG12/s/LKFTyvjlrjf+WoeZ9YzadtUmvOJ82PT/E7Y1JsDWRcumMwlRDVapezYOgdB04t89/1O/w1cDnyilFU=
+"
 };
 const OPENWEATHER_API = "https://api.openweathermap.org/data/2.5/weather/";
 const OPENWEATHER_APPID = "YOUR-OPENWEATHER-APPID";
